@@ -3,7 +3,7 @@
 An interactive product showcase for premium wireless earbuds with smooth animations and responsive design.
 
 [![Live Demo](https://soundvibe-earbuds-carouse.netlify.app/)]
-[![](https://github.com/shiva-ydv/Sound-vibe-earbuds-carouse.git)]  
+
 
 ## ✨ Features  
 - **3D Carousel Effect**: Parallax animations with CSS transforms  
