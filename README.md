@@ -2,8 +2,7 @@
 
 An interactive product showcase for premium wireless earbuds with smooth animations and responsive design.
 
-[![Live Demo](https://soundvibe-earbuds-carouse.netlify.app/)](https://your-username.github.io/soundvibe-earbuds-carousel/)  
-![GitHub last commit](https://img.shields.io/github/last-commit/your-username/soundvibe-earbuds-carousel?color=blue)
+[![Live Demo](https://soundvibe-earbuds-carouse.netlify.app/)](https://github.com/shiva-ydv/Sound-vibe-earbuds-carouse.git)  
 
 ## ✨ Features  
 - **3D Carousel Effect**: Parallax animations with CSS transforms  
@@ -27,7 +26,7 @@ An interactive product showcase for premium wireless earbuds with smooth animati
 
 ## 🔧 Installation  
 ```bash
-git clone https://github.com/your-username/soundvibe-earbuds-carousel.git
+git clone https://github.com/shiva-ydv/Sound-vibe-earbuds-carouse.git
 Open index.html in any browser.
 
 🌟 Future Improvements
