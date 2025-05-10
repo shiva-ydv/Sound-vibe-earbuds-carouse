@@ -2,6 +2,9 @@
 
 An interactive product showcase for premium wireless earbuds with smooth animations and responsive design.
 
+## 📸 Screenshots  
+![Main View]()  
+
 [![Live Demo](https://soundvibe-earbuds-carouse.netlify.app/)]
 
 
@@ -20,9 +23,6 @@ An interactive product showcase for premium wireless earbuds with smooth animati
 1. Click **<** or **>** to navigate the carousel  
 2. **"See More"** reveals detailed product specs  
 3. **"See All"** returns to the main view  
-
-## 📸 Screenshots  
-![Main View]()  
  
 
 ## 🔧 Installation  
