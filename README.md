@@ -5,7 +5,10 @@ An interactive product showcase for premium wireless earbuds with smooth animati
 ## 📸 Screenshots  
 ![Main View](https://github.com/shiva-ydv/Sound-vibe-earbuds-carouse/blob/main/Screenshot%202025-05-11%20000959.png)  
 
-[![Live Demo](https://soundvibe-earbuds-carouse.netlify.app/)
+## Live Demo
+
+[View Live Application](https://soundvibe-earbuds-carouse.netlify.app/)-
+
 
 
 ## ✨ Features  
